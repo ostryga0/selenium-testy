@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79d3ce52-b135-42f6-88bb-fdb6c5a23f4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/KlasaTestowa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PierwszyTestSelenium.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PierwszyTestSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PierwszyTestSelenium.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,12 +31,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/PierwszyTestSelenium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            <state relative-caret-position="154">
+              <caret line="43" column="91" selection-start-line="43" selection-start-column="91" selection-end-line="43" selection-end-column="91" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
-                <element signature="e#793#794#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -191,7 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.PierwszyTestSelenium">
+  <component name="RunManager" selected="TestNG.PierwszyTestSelenium.wyszukajLublin">
     <configuration name="KlasaTestowa" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="selenium" />
       <option name="PACKAGE_NAME" value="" />
@@ -238,8 +233,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PierwszyTestSelenium.wyszukajLublin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PierwszyTestSelenium" />
+      <option name="METHOD_NAME" value="wyszukajLublin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PierwszyTestSelenium.wyszukajLublin" />
         <item itemvalue="TestNG.PierwszyTestSelenium" />
         <item itemvalue="TestNG.PierwszyTestSelenium.OtwarciePrzegladarki" />
         <item itemvalue="TestNG.KlasaTestowa.CzyImieToBalbina" />
@@ -265,50 +273,58 @@
       <option name="project" value="LOCAL" />
       <updated>1571488055106</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pierwszy test otwarcie przeglądarki">
+      <created>1571493316399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571493316399</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KlasaTestowa - 2019.10.19 at 14h 52m 04s.xml">
-      <configuration name="KlasaTestowa" configurationId="TestNG" />
+    <history-entry file="PierwszyTestSelenium_wyszukajLublin - 2019.10.19 at 16h 09m 55s.xml">
+      <configuration name="PierwszyTestSelenium.wyszukajLublin" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="KlasaTestowa_CzyImieToBalbina - 2019.10.19 at 14h 56m 14s.xml">
-      <configuration name="KlasaTestowa.CzyImieToBalbina" configurationId="TestNG" />
+    <history-entry file="PierwszyTestSelenium_wyszukajLublin - 2019.10.19 at 16h 10m 31s.xml">
+      <configuration name="PierwszyTestSelenium.wyszukajLublin" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="KlasaTestowa_CzyImieToBalbina - 2019.10.19 at 14h 59m 02s.xml">
-      <configuration name="KlasaTestowa.CzyImieToBalbina" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="KlasaTestowa_CzyImieToBalbina - 2019.10.19 at 14h 59m 41s.xml">
-      <configuration name="KlasaTestowa.CzyImieToBalbina" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="KlasaTestowa_CzyImieToBalbina - 2019.10.19 at 14h 59m 43s.xml">
-      <configuration name="KlasaTestowa.CzyImieToBalbina" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="KlasaTestowa_CzyImieToBalbina - 2019.10.19 at 15h 00m 24s.xml">
-      <configuration name="KlasaTestowa.CzyImieToBalbina" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="KlasaTestowa_CzyImieToBalbina - 2019.10.19 at 15h 08m 12s.xml">
-      <configuration name="KlasaTestowa.CzyImieToBalbina" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PierwszyTestSelenium - 2019.10.19 at 15h 29m 52s.xml">
+    <history-entry file="PierwszyTestSelenium - 2019.10.19 at 16h 11m 18s.xml">
       <configuration name="PierwszyTestSelenium" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PierwszyTestSelenium - 2019.10.19 at 15h 31m 45s.xml">
-      <configuration name="PierwszyTestSelenium" configurationId="TestNG" />
+    <history-entry file="PierwszyTestSelenium_wyszukajLublin - 2019.10.19 at 16h 13m 43s.xml">
+      <configuration name="PierwszyTestSelenium.wyszukajLublin" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PierwszyTestSelenium - 2019.10.19 at 15h 50m 32s.xml">
+    <history-entry file="PierwszyTestSelenium_wyszukajLublin - 2019.10.19 at 16h 16m 04s.xml">
+      <configuration name="PierwszyTestSelenium.wyszukajLublin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PierwszyTestSelenium_wyszukajLublin - 2019.10.19 at 16h 22m 44s.xml">
+      <configuration name="PierwszyTestSelenium.wyszukajLublin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PierwszyTestSelenium_wyszukajLublin - 2019.10.19 at 16h 29m 54s.xml">
+      <configuration name="PierwszyTestSelenium.wyszukajLublin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PierwszyTestSelenium_wyszukajLublin - 2019.10.19 at 16h 50m 59s.xml">
+      <configuration name="PierwszyTestSelenium.wyszukajLublin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PierwszyTestSelenium_wyszukajLublin - 2019.10.19 at 16h 53m 33s.xml">
+      <configuration name="PierwszyTestSelenium.wyszukajLublin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PierwszyTestSelenium - 2019.10.19 at 16h 55m 00s.xml">
       <configuration name="PierwszyTestSelenium" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1548" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" weight="0.32904148" />
       <window_info anchor="bottom" id="Terminal" />
@@ -316,7 +332,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32904148" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32904148" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32904148" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -370,14 +386,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar!/org/testng/TestClass.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="e#2619#2620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PierwszyTestSelenium.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        <state relative-caret-position="154">
+          <caret line="43" column="91" selection-start-line="43" selection-start-column="91" selection-end-line="43" selection-end-column="91" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
           </folding>
         </state>
       </provider>
